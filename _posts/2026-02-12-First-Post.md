@@ -8,4 +8,4 @@ share-img: assets/img/3916-1-15copy.jpg
 tags: [photography, test]
 author: Felix Crary
 ---
-![Orthodox Church](https://beautifuljekyll.com/assets/img/4007-1-3.jpg){: .mx-auto.d-block :}
+![Orthodox Church](https://fac2-ctrl.github.io/assets/img/4007-1-3.jpg){: .mx-auto.d-block :}
