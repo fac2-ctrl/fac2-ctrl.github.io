@@ -3,7 +3,7 @@ layout: post
 title: An Introduction
 subtitle: A few things about me
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: assets/img/IMG_9371.jpeg
 share-img: /assets/img/path.jpg
 tags: [about me]
 author: Felix Crary
