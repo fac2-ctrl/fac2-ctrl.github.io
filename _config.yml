@@ -1,4 +1,4 @@
-###########################################################
+ ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Fac2-ctrl's website draft 1
+title: Felix Crary's website
 
 # Your name to show in the footer
 author: Felix Crary
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com"
-  Author's home: "https://deanattali.com"
+
 
 ################
 # --- Logo --- #
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "fac2-ctrl.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
