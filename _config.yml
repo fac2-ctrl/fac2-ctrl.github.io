@@ -146,7 +146,7 @@ navbar-border-col: "#FF9B51"
 footer-col: "#BFC9D1"
 footer-text-col: "#25343F"
 footer-link-col: "#FF9B51"
-footer-hover-col: "#FF9B51
+footer-hover-col: "#EAEFEF"
 
 # light gray EAEFEF
 # dark gray BFC9D1
