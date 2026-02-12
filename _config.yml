@@ -148,6 +148,7 @@ footer-text-col: "#25343F"
 footer-link-col: "#FF9B51"
 footer-hover-col: "#EAEFEF"
 
+#color scheme from: https://colorhunt.co/palette/eaefefbfc9d125343fff9b51
 # light gray EAEFEF
 # dark gray BFC9D1
 # black 25343F
