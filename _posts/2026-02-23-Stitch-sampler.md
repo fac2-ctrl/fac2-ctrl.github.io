@@ -14,6 +14,5 @@ There are a few things 'past me' could have done to make this an easier process.
 Overall this project was a good reintoduction to embroidery and has gotten me very exited for what's to come.
 
 
-
-![Front](https://beautifuljekyll.com/assets/img/Stitch_Sampler1.jpg)
-![Back](https://beautifuljekyll.com/assets/img/Stitch_Sampler_Back1.jpg)
+![Front](https://fac2-ctrl.github.io/assets/img/Stitch_Sampler1.jpg){: .mx-auto.d-block :}
+![Back](https://fac2-ctrl.github.io/assets/img/Stitch_Sampler_Back1.jpg){: .mx-auto.d-block :}
