@@ -15,4 +15,5 @@ Overall this project was a good reintoduction to embroidery and has gotten me ve
 
 
 ![Front](https://fac2-ctrl.github.io/assets/img/Stitch_Sampler1.jpg){: .mx-auto.d-block :}
+
 ![Back](https://fac2-ctrl.github.io/assets/img/Stitch_Sampler_back1.jpg){: .mx-auto.d-block :}
