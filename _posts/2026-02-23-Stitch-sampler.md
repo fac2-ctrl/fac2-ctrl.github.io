@@ -15,5 +15,5 @@ Overall this project was a good reintoduction to embroidery and has gotten me ve
 
 
 
-![Stitch_Sampler_Front](https://beautifuljekyll.com/assets/img/Stitch_Sampler1.jpg)
-![Stich_Sampler_Back](https://beautifuljekyll.com/assets/img/Stitch_Sampler_Back1.jpg)
+![Front](https://beautifuljekyll.com/assets/img/Stitch_Sampler1.jpg)
+![Back](https://beautifuljekyll.com/assets/img/Stitch_Sampler_Back1.jpg)
