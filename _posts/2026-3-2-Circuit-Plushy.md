@@ -11,13 +11,13 @@ The goal of this project was to build a plushy from felt that contains a circuit
 
 ## Paper prototype
 
-![Paper prototype](https://fac2-ctrl.github.io/){: .mx-auto.d-block :}
+![Paper prototype](https://fac2-ctrl.github.io/assets/img/Paper_Prototype.jpeg){: .mx-auto.d-block :}
 
 ## Aligator clip prototype
 
-![Aligator clip prototype](https://fac2-ctrl.github.io/){: .mx-auto.d-block :}
+![Aligator clip prototype](https://fac2-ctrl.github.io/assets/img/Prototype.jpeg){: .mx-auto.d-block :}
 
 ## Plushy 
 
-![Plushy front](https://fac2-ctrl.github.io/){: .mx-auto.d-block :}
-![Plushy back](https://fac2-ctrl.github.io/){: .mx-auto.d-block :}
+![Plushy front](https://fac2-ctrl.github.io/assets/img/Plushy_Front.jpeg){: .mx-auto.d-block :}
+![Plushy back](https://fac2-ctrl.github.io/assets/img/Plushy_Back.jpeg){: .mx-auto.d-block :}
