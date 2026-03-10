@@ -8,6 +8,6 @@ Hi everyone! Heres my homemade switches assignment. It's circuit with a coin bat
 
 
 ![Paper_Prototype](https://fac2-ctrl.github.io/assets/img/Paper_Prototype.jpeg){: .mx-auto.d-block :}
-![Alligator_Prototype](https://fac2-ctrl.github.io/assets/img/Alligator_Prototype.jpeg){: .mx-auto.d-block :}
+![Alligator_Prototype](https://fac2-ctrl.github.io/assets/img/Alligator_Prototype1.jpeg){: .mx-auto.d-block :}
 ![Front](https://fac2-ctrl.github.io/assets/img/Front.jpeg){: .mx-auto.d-block :}
 ![Back](https://fac2-ctrl.github.io/assets/img/Back.jpeg){: .mx-auto.d-block :}
