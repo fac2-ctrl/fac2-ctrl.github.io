@@ -13,24 +13,24 @@ The only rescources I used were the lecture slides.
 
 Final Material List: 
 
-1 8.5"x11" sheet orange felt (divided in two for front and back)
-1 8.5"x11" sheet green felt (only ~1"x4" used)
-1 skein green embroidery floss
-1 skein orange embroidery floss
-1 bobbin conductive thread
-lilypad components:
-  arduino
-  2 green LEDs
-  light sensor
-  buzzer
-  battery
-  button
+1 8.5"x11" sheet orange felt (divided in two for front and back)\
+1 8.5"x11" sheet green felt (only ~1"x4" used)\
+1 skein green embroidery floss\
+1 skein orange embroidery floss\
+1 bobbin conductive thread\
+lilypad components:\
+  arduino\
+  2 green LEDs\
+  light sensor\
+  buzzer\
+  battery\
+  button\
 
 Paper Prototype:
 ![Paper_Prototype](https://fac2-ctrl.github.io/assets/img/IMG_9790.jpeg){: .mx-auto.d-block :}
 Alligator Prototype:
-![Alligator_Prototype](https://fac2-ctrl.github.io/assets/img/IMG_9790.jpeg){: .mx-auto.d-block :}
+![Alligator_Prototype](https://fac2-ctrl.github.io/assets/img/final_alligator.jpeg){: .mx-auto.d-block :}
 Final Project:
-![light_on](https://fac2-ctrl.github.io/assets/img/IMG_9790.jpeg){: .mx-auto.d-block :}
-![light_off](https://fac2-ctrl.github.io/assets/img/IMG_9790.jpeg){: .mx-auto.d-block :}
+![light_on](https://fac2-ctrl.github.io/assets/img/final_on.jpeg){: .mx-auto.d-block :}
+![light_off](https://fac2-ctrl.github.io/assets/img/final_off.jpeg){: .mx-auto.d-block :}
 ![it_beeps_i_promise](https://fac2-ctrl.github.io/assets/img/IMG_9790.jpeg){: .mx-auto.d-block :}
