@@ -27,7 +27,7 @@ lilypad components:\
   button
 
 Paper Prototype:
-![Paper_Prototype](https://fac2-ctrl.github.io/assets/img/final_paper.pdf){: .mx-auto.d-block :}
+![Paper_Prototype](https://fac2-ctrl.github.io/assets/img/final_paper.jpeg){: .mx-auto.d-block :}
 Alligator Prototype:
 ![Alligator_Prototype](https://fac2-ctrl.github.io/assets/img/final_alligator.jpeg){: .mx-auto.d-block :}
 Final Project:
