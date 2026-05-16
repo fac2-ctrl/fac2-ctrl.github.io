@@ -24,7 +24,7 @@ lilypad components:\
   light sensor\
   buzzer\
   battery\
-  button\
+  button
 
 Paper Prototype:
 ![Paper_Prototype](https://fac2-ctrl.github.io/assets/img/IMG_9790.jpeg){: .mx-auto.d-block :}
