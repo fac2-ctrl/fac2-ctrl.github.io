@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Final Project: Schnapsen Cheater, Pumpkin Eater!
+title: Schnapsen Cheater, Pumpkin Eater!!
+cover-img: assets/img/3916-1-15copy.jpg
+thumbnail-img: assets/img/3916-1-15copy.jpg
+share-img: assets/img/3916-1-15copy.jpg
+tags: [code]
 author: Felix Crary
 ---
 
