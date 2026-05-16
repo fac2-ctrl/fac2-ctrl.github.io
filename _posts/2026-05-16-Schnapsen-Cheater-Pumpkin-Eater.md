@@ -27,10 +27,10 @@ lilypad components:\
   button
 
 Paper Prototype:
-![Paper_Prototype](https://fac2-ctrl.github.io/assets/img/final_paper.jpeg){: .mx-auto.d-block :}
+![Paper_Prototype](https://fac2-ctrl.github.io/assets/img/final_paper.pdf){: .mx-auto.d-block :}
 Alligator Prototype:
 ![Alligator_Prototype](https://fac2-ctrl.github.io/assets/img/final_alligator.jpeg){: .mx-auto.d-block :}
 Final Project:
 ![light_on](https://fac2-ctrl.github.io/assets/img/final_on.jpeg){: .mx-auto.d-block :}
 ![light_off](https://fac2-ctrl.github.io/assets/img/final_off.jpeg){: .mx-auto.d-block :}
-![it_beeps_i_promise](https://fac2-ctrl.github.io/assets/img/IMG_9790.jpeg){: .mx-auto.d-block :}
+![it_beeps_i_promise](https://fac2-ctrl.github.io/assets/img/beeps.jpeg){: .mx-auto.d-block :}
